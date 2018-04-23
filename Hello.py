@@ -1,5 +1,5 @@
 
 print("你真是一个小天才!")
 
-print("why I cannot submit")
+print("好开心啊，今天又能吃成长快乐啦！")
 
