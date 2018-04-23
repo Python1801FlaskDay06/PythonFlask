@@ -10,3 +10,6 @@ print("修改了系统过于流畅的BUG")
 
 print('搞起搞起')
 
+hello = 'PYTHON'
+
+print("谁喝了我的成长快乐！")
