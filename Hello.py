@@ -6,3 +6,4 @@ print('小天才你真棒')
 
 print('搞起搞起')
 
+print('gaogaogao')
