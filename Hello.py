@@ -11,3 +11,8 @@ print("修改了系统过于流畅的BUG")
 print('搞起搞起')
 
 print("听说你百米只需12秒")
+
+hello = 'Git'
+
+print(hello)
+
