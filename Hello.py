@@ -9,7 +9,7 @@ print("好开心啊，今天又能吃成长快乐啦！")
 
 print("听说你百米只需12秒")
 
-hello = 'python'
+hello = 'python1801'
 
 print(hello)
 
